@@ -24,6 +24,9 @@
   border-bottom: 1px dotted #ddd;
 }
 
+.white-text {
+  color: #fff;
+}
 .post-area a:link, .post-area a:visited {
   font-size: 30px;
   color: #333;
