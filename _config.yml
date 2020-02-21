@@ -18,7 +18,7 @@ title: Adam And Anastasias Wedding
 subtitle: "July 3rd 2020"
 url: "https://afronczak.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "wedding-site"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
